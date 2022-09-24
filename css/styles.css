@@ -1,0 +1,15 @@
+body {
+  padding: 10px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.button {
+  text-align: center;
+}
+
+.box {
+  border: solid #eee;
+  border-width: 2px;
+  padding: 5px;
+}
